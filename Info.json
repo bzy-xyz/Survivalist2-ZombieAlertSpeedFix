@@ -1,0 +1,12 @@
+{
+    "Id": "ZombieAlertSpeedFix",
+    "DisplayName": "Zombie Alert Speed Fix",
+    "Author": "bzy-xyz",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.22.12",
+    "GameVersion": "101",
+    "Requirements": [],
+    "LoadAfter": [],
+    "AssemblyName": "ZombieAlertSpeedFix.dll",
+    "EntryMethod": "ZombieAlertSpeedFix.Main.Load"
+  }
